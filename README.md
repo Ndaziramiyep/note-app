@@ -1,2 +1,2 @@
 # note-app
-Application for taking daily notes.
+#Application for taking daily notes.
